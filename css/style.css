@@ -1,0 +1,24 @@
+h1{
+    color: black;
+    }
+    header li{
+        display: inline-block;
+    }
+    p{
+        color: blue;
+    }
+    body{
+        background-color: deepskyblue;
+    }
+    .main{
+        background-color: gold;
+    }
+    .main ul{
+        padding: 20px;
+        text-align: center;
+        margin-right: 15px;
+    
+    }
+    .main ul li{
+        list-style-type: none;
+    }
